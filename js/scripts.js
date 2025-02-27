@@ -1,4 +1,4 @@
 //função que será chamada pelo html//
 function mensagem(){
-    alert("Agora vc está seguindo ao vasco da gama 🤣🤣")
+    alert("Seguindo: Equipe laranja - Trote Solidário Uni-FACEF 2025")
 }

@@ -9,7 +9,7 @@ body {
     /* altura da página é todo o conteúdo dela */
     align-items: center;
     /* centraliza na vertical */
-    background-color: rgb(116, 0, 0);
+    background-color: rgb(201, 74, 0);
     /*define a cor do fundo da página*/
 }
 
@@ -37,7 +37,7 @@ button {
 }
 /* cria o efeito de passar o mouse no botão */
 button:hover {
-    background-color: rgb(139, 0, 0);
+    background-color: rgb(255, 94, 0);
 }
 
 .imagem {
